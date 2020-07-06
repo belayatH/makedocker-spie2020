@@ -1,3 +1,3 @@
 # docker-spie2020
 Make docker container and docker images- 
-Its used for ORST_Net
+Its used in our proposed ORST_Net
